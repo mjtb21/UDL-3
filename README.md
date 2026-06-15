@@ -111,3 +111,21 @@ https://ble.ir/UDLbot
 - وب سایت : avasam.ir 
 
 
+
+---
+
+## فایل های دانلود شده
+
+- [gJW7mVfG](https://github.com/mjtb21/UDL-3/tree/main/downloads/gJW7mVfG)
+
+---
+
+<!-- AVASAM_HELP -->
+
+## 📦 دانلود همه فایل ها یکجا
+
+**[⬇️ دانلود کل مخزن به صورت ZIP](https://github.com/mjtb21/UDL-3/archive/refs/heads/main.zip)**
+
+---
+
+طراحی شده توسط [آواسام](https://avasam.ir) 💚
